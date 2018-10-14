@@ -1,10 +1,13 @@
 # 라라벨 학습하기
 
-'라라벨로 배우는 실전 PHP 웹 프로그래밍' 책을 이용해 학습  
+[라라벨로 배우는 실전 PHP 웹 프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=96495117) 책을 이용해 학습  
+
+- 1주에 5챕터 이상 학습하는 것을 목표 
+- 주차별로 학습한 예제코드는 github 등록
 
 ## 저장소
 은별  
-**[재우](https://github.com/jwoosss)
+[재우](https://github.com/jwoosss/laravel-study)
 
 ## TODO
 1주차
