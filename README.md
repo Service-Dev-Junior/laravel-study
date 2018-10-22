@@ -5,19 +5,23 @@
 - 1주에 5챕터 이상 학습하는 것을 목표 
 - 학습한 예제코드는 github 등록
 
+## 참고
+[Larabel Korea Community](https://laravel.kr/) - 한국 라라벨 커뮤니티   
+[Laradock](https://laradock.io/) - PHP 개발환경 도커 컨테이너로 제공  
+
 ## 저장소
-은별  
+[은별](https://github.com/lebest/laravel-study)  
 [재우](https://github.com/jwoosss/laravel-study)
 
 ## TODO
 1주차
-- [ ] CHAPTER 01 라라벨 설치   
-- [ ] CHAPTER 02 전역 환경 설정   
-- [ ] CHAPTER 03 라우팅 
-- [ ] CHAPTER 04 뷰와 데이터 바인딩    
-- [ ] CHAPTER 05 블레이드   
-- [ ] CHAPTER 06 데이터베이스와 모델 
-- [ ] CHAPTER 07 데이터베이스 마이그레이션   
+- [x] CHAPTER 01 라라벨 설치
+- [x] CHAPTER 02 전역 환경 설정
+- [x] CHAPTER 03 라우팅
+- [x] CHAPTER 04 뷰와 데이터 바인딩
+- [x] CHAPTER 05 블레이드
+- [x] CHAPTER 06 데이터베이스와 모델
+- [x] CHAPTER 07 데이터베이스 마이그레이션   
 
 2주차 
 - [ ] CHAPTER 08 컨트롤러 
