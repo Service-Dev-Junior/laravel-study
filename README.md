@@ -24,13 +24,13 @@
 - [x] CHAPTER 07 데이터베이스 마이그레이션   
 
 2주차 
-- [ ] CHAPTER 08 컨트롤러 
-- [ ] CHAPTER 09 사용자 인증 
-- [ ] CHAPTER 10 엘로퀀트 ORM 
-- [ ] CHAPTER 11 데이터베이스 시딩 
-- [ ] CHAPTER 12 즉시 로드와 페이징 
-- [ ] CHAPTER 13 입력값 유효성 검사 
-- [ ] CHAPTER 14 이벤트 시스템 
+- [x] CHAPTER 08 컨트롤러 
+- [x] CHAPTER 09 사용자 인증 
+- [x] CHAPTER 10 엘로퀀트 ORM 
+- [x] CHAPTER 11 데이터베이스 시딩 
+- [x] CHAPTER 12 즉시 로드와 페이징 
+- [x] CHAPTER 13 입력값 유효성 검사 
+- [x] CHAPTER 14 이벤트 시스템 
 
 3주차
 - [ ] CHAPTER 15 예외 처리와 디버깅 
