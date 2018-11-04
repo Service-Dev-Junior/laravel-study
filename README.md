@@ -33,11 +33,11 @@
 - [x] CHAPTER 14 이벤트 시스템 
 
 3주차
-- [ ] CHAPTER 15 예외 처리와 디버깅 
-- [ ] CHAPTER 16 이메일 보내기 
-- [ ] CHAPTER 17 컴포저 
-- [ ] CHAPTER 18 모델 
-- [ ] CHAPTER 19 컨트롤러와 도우미 함수 
+- [x] CHAPTER 15 예외 처리와 디버깅 
+- [x] CHAPTER 16 이메일 보내기 
+- [x] CHAPTER 17 컴포저 
+- [x] CHAPTER 18 모델 
+- [x] CHAPTER 19 컨트롤러와 도우미 함수 
 
 4주차
 - [ ] CHAPTER 20 다듬질 
