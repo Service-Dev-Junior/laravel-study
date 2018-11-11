@@ -40,11 +40,11 @@
 - [x] CHAPTER 19 컨트롤러와 도우미 함수 
 
 4주차
-- [ ] CHAPTER 20 다듬질 
-- [ ] CHAPTER 21 엘릭서와 프런트엔드 
-- [ ] CHAPTER 22 계획과 준비 
-- [ ] CHAPTER 23 사용자 인증 재구성 
-- [ ] CHAPTER 24 소셜 로그인 
+- [x] CHAPTER 20 다듬질 
+- [x] CHAPTER 21 엘릭서와 프런트엔드 
+- [x] CHAPTER 22 계획과 준비 
+- [x] CHAPTER 23 사용자 인증 재구성 
+- [x] CHAPTER 24 소셜 로그인 
 
 5주차
 - [ ] CHAPTER 25 아티클 기능 구현 
