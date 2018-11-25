@@ -46,7 +46,7 @@
 - [x] CHAPTER 23 사용자 인증 재구성 
 - [x] CHAPTER 24 소셜 로그인 
 
-5주차
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 5주차 (보류)
 - [ ] CHAPTER 25 아티클 기능 구현 
 - [ ] CHAPTER 26 태그 기능 구현 
 - [ ] CHAPTER 27 파일 첨부 기능 구현 
