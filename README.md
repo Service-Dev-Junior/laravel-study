@@ -49,12 +49,12 @@
 5주차
 - [x] CHAPTER 25 아티클 기능 구현 
 - [x] CHAPTER 26 태그 기능 구현 
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) CHAPTER 27 파일 첨부 기능 구현 
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) CHAPTER 28 댓글 기능 구현 
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) CHAPTER 29 다듬질 I 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) CHAPTER 27 파일 첨부 기능 구현 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) CHAPTER 28 댓글 기능 구현 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) CHAPTER 29 다듬질 I 
 
 6주차
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) CHAPTER 30 다듬질 II 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) CHAPTER 30 다듬질 II 
 - [x] CHAPTER 31 기본기 익히기 
 - [ ] CHAPTER 32 구조 설계 
 - [ ] CHAPTER 33 클라이언트 인증 
