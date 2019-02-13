@@ -56,7 +56,7 @@
 6주차
 - [ ] ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) CHAPTER 30 다듬질 II 
 - [x] CHAPTER 31 기본기 익히기 
-- [ ] CHAPTER 32 구조 설계 
+- [x] CHAPTER 32 구조 설계 
 - [ ] CHAPTER 33 클라이언트 인증 
 - [ ] CHAPTER 34 데이터 트랜스폼 
 
